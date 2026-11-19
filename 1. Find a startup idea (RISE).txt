@@ -1,0 +1,88 @@
+1. Find a startup idea (RISE)
+
+Act as a startup mentor for engineering students in India. I am a [year] [branch] student interested in [AI / agriculture / healthcare / EVs]. Suggest 5 startup ideas that solve real problems in Indian towns or villages. For each idea give: the problem, the solution, who pays, a rough cost to build a first version, and one risk. Present it as a table, then recommend the best one for a student team of 4.
+
+2. Test an idea before building it (BAB)
+
+Before: I have a startup idea: [describe your idea in 2 lines]. After: I want to know if people will actually use and pay for it. Bridge: Give me a 2-week validation plan with 10 questions to ask real customers, a simple landing-page test, and the numbers that would tell me to continue or stop.
+
+3. One-page pitch (CO-STAR)
+
+Context: My team is entering [hackathon / college E-cell pitch / Smart India Hackathon] with the idea [idea]. Objective: Write a one-page pitch. Style: Like a confident startup founder. Tone: Clear and convincing, not exaggerated. Audience: Judges who are engineers and investors. Response: Sections for problem, solution, market, business model, team and ask, under 300 words.
+
+4. Name and tagline
+
+Suggest 10 short, catchy names for a startup that [what it does], with a one-line tagline for each. The names should be easy to pronounce in India and likely to have a .in domain available. Avoid names of existing well-known companies.
+🛠️ Projects
+
+5. Mini-project ideas for your branch (RTF)
+
+You are a senior engineering professor. Suggest 8 mini-project ideas for a [year] [branch] student with a budget under ₹[amount] and [skills you have, e.g. basic Python, Arduino]. Give a table with: project title, what it does, components or tools, difficulty (easy / medium / hard) and what I will learn.
+
+6. Full project plan (RISE)
+
+Act as my project guide. Input: My project is [title], made by a team of [number], with [weeks] weeks to finish. Steps: Break it into weekly milestones, list every component or software with an approximate cost in rupees, and assign tasks to each team member. Expectation: A week-by-week table, plus a list of the 3 most likely problems and how to avoid them.
+
+7. Circuit or hardware help
+
+I am building [project] using [Arduino / ESP32 / Raspberry Pi] with [sensors and modules]. Explain step by step how to connect each component (pin by pin), the power supply I need, and simple working code with comments. Then list common wiring mistakes and how to test each part separately.
+
+8. Project report
+
+Write the [abstract / introduction / literature review / conclusion] for my engineering project report titled "[title]". The project [2–3 line description]. Use formal academic English suitable for a university report, around [number] words. Do not invent results or references; mark any place where I must add my own data as [ADD DATA].
+🌐 Websites
+
+9. Build a website from scratch (CARE)
+
+Context: I am a beginner who knows basic HTML and CSS. Action: Create a complete, responsive personal portfolio website in a single HTML file with embedded CSS. Result: Sections for About, Skills, Projects (3 cards), and Contact, with a modern design, smooth scrolling and a mobile-friendly menu. Example: A clean style like a professional developer portfolio, with a dark navy and orange colour scheme. Explain how to put it online for free.
+
+10. Website for a college event or club
+
+Create a one-page website for our college RV Institute of Technology and Management called "TECHNOVA 2026", happening on [dates]. Include a hero section with a countdown timer and an attractive background photograph , a guest speaker section with a professional guest photograph of rajani kanth,and details, an events section with [number] events, a schedule, a registration button linking to [Google Form link], and a footer with college contact details. Use HTML, CSS and JavaScript in one file, with comments explaining each part. Make the website attractive, modern and mobile-friendly.
+
+11. Full-stack project idea and plan
+
+I want to build a [web app idea, e.g. lost-and-found portal for my campus] using [React / plain JavaScript] and [Firebase / Node.js + MongoDB]. Give me the database design, list of pages, main features for version 1, and a step-by-step build order. Then write the code for the first page only, and wait for me before continuing.
+
+12. Fix and improve my website
+
+Here is my website code: [paste code]. Review it as a senior web developer. List bugs, mobile-display problems, accessibility issues and slow parts, in order of importance. Then give me the corrected code with comments marking every change.
+💻 Coding and other technical areas
+
+13. Understand a concept (chain-of-thought)
+
+Explain [concept, e.g. recursion / pointers / Fourier transform / PID control] to a first-year engineering student. Use a real-life analogy, then a simple example, then step-by-step working of one solved problem. End with 3 practice questions, with answers hidden at the bottom.
+
+14. Debug my code
+
+My [language] code should [expected behaviour] but instead [what actually happens / error message]. Here is the code: [paste code]. Think step by step: find the cause, explain it simply, then give the corrected code. Don't rewrite parts that are already working.
+
+15. Learn a new skill in 30 days (RISE)
+
+Act as a learning coach. I am a [year] [branch] student who knows [current skills] and can study [hours] hours a day. Make a 30-day plan to learn [Python / machine learning / web development / VLSI basics / CAD]. Give a day-by-day table with the topic, a free resource, and a small task. Include a mini-project at the end of each week.
+
+16. Machine-learning or data project
+
+Suggest 5 beginner machine-learning projects using free public datasets, relevant to [agriculture / healthcare / traffic / energy] in India. For each, give the dataset source, the problem to solve, the algorithm to start with, and the steps from loading data to showing results. Then write starter Python code for the first project.
+
+17. Compare technologies (tree-of-thought)
+
+I need to choose between [option A], [option B] and [option C] for [purpose, e.g. my IoT project's microcontroller / my app's backend]. Compare all three on cost, ease of learning, community support and performance. Score each out of 10, then recommend the best one for a student and explain why.
+🎓 Career and internships
+
+18. Resume for internships
+
+Act as a placement trainer. Here are my details: [branch, year, skills, projects, certificates, activities]. Write a ATS-friendly resume for [software / core engineering] internships, with strong action verbs and measurable results. Then suggest 3 things I should add in the next 6 months to make it stronger.take some random data.
+
+19. Mock interview
+
+Act as an interviewer at a [company type, e.g. core electronics company / software startup] hiring interns. Ask me one technical question at a time on [topics], wait for my answer, then score it out of 10 and tell me how to improve it. After 5 questions, give me an overall report.
+
+
+
+Act as a technical interviewer at a software startup company hiring interns. Conduct a realistic voice-based mock interview, communicating with me naturally as in a real face-to-face interview. Ask me one technical question at a time from topics such as Python, C, Java, DBMS, SQL, OOP, Data Structures, Operating Systems, Computer Networks, and Web Development. Wait for my complete verbal answer before asking the next question. After each answer, evaluate it, score it out of 10, explain what I did well, identify mistakes or missing points, and suggest how to improve my answer. Ask follow-up questions if necessary, just like a real interviewer. Conduct exactly 5 questions, gradually increasing the difficulty. After the 5th question, provide an overall performance report with my total score out of 50, strengths, weaknesses, communication skills, areas for improvement, and final interview feedback. Maintain a professional, friendly interviewer attitude throughout the voice interaction.
+
+20. LinkedIn profile
+
+Write a LinkedIn headline (under 120 characters) and an "About" section (under 200 words) for me. I am a [year] [branch] student at [college], skilled in [skills], who built [best project], and I'm looking for [internships / research opportunities] in [field]. Keep it professional and friendly, in first person.
+
